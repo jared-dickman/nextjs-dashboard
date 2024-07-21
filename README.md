@@ -1,3 +1,3 @@
 # nextjs-dashboard
 
-## Example follow-along from https://nextjs.org/learn/dashboard-app/getting-started
+## Example follow-along for a [dashboard app in nextjs](https://nextjs.org/learn/dashboard-app/getting-started)
